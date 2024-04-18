@@ -1,0 +1,11 @@
+com\example\jpatutorial\models\Text$TextBuilderImpl.class
+com\example\jpatutorial\models\Video$VideoBuilder.class
+com\example\jpatutorial\controllers\AuthorController.class
+com\example\jpatutorial\models\Customer.class
+com\example\jpatutorial\models\Video.class
+com\example\jpatutorial\models\Text$TextBuilder.class
+com\example\jpatutorial\models\Text.class
+com\example\jpatutorial\models\File.class
+com\example\jpatutorial\models\File$FileBuilderImpl.class
+com\example\jpatutorial\models\Video$VideoBuilderImpl.class
+com\example\jpatutorial\models\File$FileBuilder.class
