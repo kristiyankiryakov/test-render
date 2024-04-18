@@ -1,6 +1,5 @@
 package com.example.jpatutorial.controllers;
 
-import com.example.jpatutorial.models.Author;
 import com.example.jpatutorial.models.Customer;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
